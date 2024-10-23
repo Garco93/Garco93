@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👨‍💻 Perfil de Estudiante de Programación
 
-<!--
-**Garco93/Garco93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner de Estudiante](https://github.com/usuario/mi-repositorio/raw/main/banner_estudiante_bw.png)
 
-Here are some ideas to get you started:
+## 🎓 **Educación**
+- **Entidad Educativa**: Centro Integral de Formación Profesional a Distancia "La Conservera" - Región de Murcia
+- **Nivel Educativo**: Técnico Superior en Desarrollo de Aplicaciones Web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 **Asignaturas Matriculadas**
+| Asignatura                                                 |
+|-----------------------------------------------------------|
+| Sistemas Informáticos                                      |
+| Bases de Datos                                            |
+| Programación                                              |
+| Entornos de Desarrollo                                     |
+| Itinerario Personal para la Empleabilidad I              |
+| Inglés Técnico                                            |
+| Lenguajes de Marcas y Sistemas de Gestión                 |
+| Digitalización Aplicada al Sistema Productivo              |
+
+## 💻 **Stack Tecnológico Conocido**
+- **Lenguajes de Programación**:
+  - HTML
+  - CSS
+  - JavaScript
+- **Herramientas y Tecnologías**:
+  - Git
+  - Visual Studio Code
+
+## 🔧 **Stack Tecnológico del Curso**
+- **Frameworks**:
+  - React
+  - Node.js
+  - Express
+- **Bases de Datos**:
+  - MongoDB
+  - Docker
+
+## 🌟 **Preferencias Tecnológicas**
+- Frontend
+- Backend
+- Full-stack
+- Diseño UI/UX
+
+## 📫 **Contacto**
+Si deseas contactarme, puedes enviarme un correo pinchando en el ícono:  
+✉️ [Enviar correo](mailto:1383203@alu.murciaeduca.es)
